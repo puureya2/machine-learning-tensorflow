@@ -1,0 +1,15 @@
+notebook
+bing-image-downloader
+selenium
+beautifulsoup4
+requests
+opencv-python
+pillow
+pandas
+numpy
+scikit-learn
+tensorflow
+keras
+matplotlib
+h5py
+seaborn
